@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="6fa@}pp/(`[wXX_Zfr_5" x="0" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="6fa@}pp/(`[wXX_Zfr_5" x="0" y="0"/><block type="device_gesture_event" id="uH#j~5v+8?(wL9cBl|N." x="502" y="221"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="SoundExpression_play" id="7cs98ZH]|^cfMOVg+Pa."><field name="this">soundExpression.hello</field></block></statement></block></xml>
